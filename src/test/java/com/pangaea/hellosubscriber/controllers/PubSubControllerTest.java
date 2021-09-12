@@ -30,7 +30,7 @@ public class PubSubControllerTest {
     private MockMvc mockMvc;
 
     @Test
-    public void contextLoads() throws Exception {
+    public void contextLoads() {
         assertThat(pubSubController).isNotNull();
     }
 
