@@ -7,8 +7,6 @@ See subscriber application [here](https://github.com/mugambbo/hello-server).
 -   Java SDK 8+
 -   Gradle 7.1.1
 -   Running publisher application
--   Redis DB on port 6379
--   RabbitMQ
 
 # Run
 The easiest way to start an instance of the Subscriber is through github:
